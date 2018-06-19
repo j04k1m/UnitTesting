@@ -1,0 +1,11 @@
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\bin\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.deps.json
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\bin\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.runtimeconfig.json
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\bin\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.runtimeconfig.dev.json
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\bin\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.dll
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\obj\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.csprojAssemblyReference.cache
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\obj\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\obj\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.AssemblyInfoInputs.cache
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\obj\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.AssemblyInfo.cs
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\bin\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.pdb
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\obj\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.dll
+C:\Users\Joakim\source\repos\WebApplication_MVC_Test_Lab2\WebApplication_MVC_Test_Lab2\obj\Debug\netcoreapp2.0\WebApplication_MVC_Test_Lab2.pdb
